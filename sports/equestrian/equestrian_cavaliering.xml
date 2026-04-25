@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sport version="0.3">
+	<name>Equestrian—Cavaliering</name>
+	<discipline>Equestrian, cavaliering</discipline>
+	<event/>
+	<scorinator/>
+	
+	<paradigm>scored</paradigm>
+	<paradigmOptions>
+	    <int type="resultWidth">6</int>
+		<double type="displayDigits">2</double>
+		<double type="roundingValue">0.01</double>
+		<string type="sortOrder">descending</string>
+	</paradigmOptions>
+	
+	<dataPoints name="score">
+		<dataPoint pos="0.997718260347288">225</dataPoint>
+		<dataPoint pos="0.996453076463018">218.910714285714</dataPoint>
+		<dataPoint pos="0.994603391861212">212.857142857143</dataPoint>
+		<dataPoint pos="0.991959779001063">206.839285714286</dataPoint>
+		<dataPoint pos="0.988264816728744">200.857142857143</dataPoint>
+		<dataPoint pos="0.983212517567113">194.910714285714</dataPoint>
+		<dataPoint pos="0.976451858849675">189</dataPoint>
+		<dataPoint pos="0.967595341756236">183.125</dataPoint>
+		<dataPoint pos="0.956233124353699">177.285714285714</dataPoint>
+		<dataPoint pos="0.941952714643832">171.482142857143</dataPoint>
+		<dataPoint pos="0.924363516712428">165.714285714286</dataPoint>
+		<dataPoint pos="0.903124782125745">159.982142857143</dataPoint>
+		<dataPoint pos="0.877974839644189">154.285714285714</dataPoint>
+		<dataPoint pos="0.848758976588313">148.625</dataPoint>
+		<dataPoint pos="0.815453127970582">143</dataPoint>
+		<dataPoint pos="0.778180662104569">137.410714285714</dataPoint>
+		<dataPoint pos="0.737220048926358">131.857142857143</dataPoint>
+		<dataPoint pos="0.693002015613163">126.339285714286</dataPoint>
+		<dataPoint pos="0.646095834413401">120.857142857143</dataPoint>
+		<dataPoint pos="0.59718551174038">115.410714285714</dataPoint>
+		<dataPoint pos="0.547037701408168">110</dataPoint>
+		<dataPoint pos="0.49292828739176">104.25</dataPoint>
+		<dataPoint pos="0.438948879298697">98.5</dataPoint>
+		<dataPoint pos="0.386083184884417">92.75</dataPoint>
+		<dataPoint pos="0.335254333019125">87</dataPoint>
+		<dataPoint pos="0.287276879537376">81.25</dataPoint>
+		<dataPoint pos="0.242818398619638">75.5</dataPoint>
+		<dataPoint pos="0.202373609321225">69.75</dataPoint>
+		<dataPoint pos="0.166252501256334">64</dataPoint>
+		<dataPoint pos="0.134582354317896">58.25</dataPoint>
+		<dataPoint pos="0.10732211802322">52.5</dataPoint>
+		<dataPoint pos="0.0842865103113888">46.75</dataPoint>
+		<dataPoint pos="0.0651765296060267">41</dataPoint>
+		<dataPoint pos="0.0496128839189569">35.25</dataPoint>
+		<dataPoint pos="0.0371690865742541">29.5</dataPoint>
+		<dataPoint pos="0.0274015504381411">23.75</dataPoint>
+		<dataPoint pos="0.019874798197337">18</dataPoint>
+		<dataPoint pos="0.0141807556817907">12.25</dataPoint>
+		<dataPoint pos="0.00995188625929822">6.5</dataPoint>
+		<dataPoint pos="0.00686856822419768">0.75</dataPoint>
+		<dataPoint pos="0.0065361843288454">0</dataPoint>
+	</dataPoints>
+</sport>
